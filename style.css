@@ -111,20 +111,21 @@ li a
 
 .project-text h4 {
   margin: 0;
-  font-size: 17px;  
-  color: #5f5d5d;
+  font-size: 15px;  
+  font-weight: 450;
+  color: #333;
 }
 
 .project-text a {
   color: #1f666b;
   text-decoration: none;
-  border: .1rem solid #1f666b;
+  border: .2rem solid #1f666b;
   border-radius: 10px;
-  padding: 2px;
+  padding: 2.5px;
 }
 
 .project-text a:hover {
-  color: #ddd;
+  color: #fff;
   background: #1f666b;
 }
 .contact ul
@@ -159,7 +160,7 @@ li a
 .contact .education h5
 {
   color: #1f666b;
-  font-weight: 500;
+  font-weight: 200;
 }
 .contact .education h4:nth-child(2)
 {
