@@ -216,19 +216,18 @@ p
   font-size: 15px;
 }
 
-button {
+.button {
   color: #1f666b;
   background: #e4e1e1;
   border: .1rem solid #1f666b;
   border-radius: 5px;
   font-weight: 600;
-  padding: .3rem;
-  display: flex;
-  flex-direction: column;
   align-items: center;
+  justify-content: center;
   cursor: pointer;
-  margin: 1rem 0 1rem 11rem;
+  padding: 5px;
   text-decoration: none;
+  margin-left: 170px;
 }
 
 button:hover {
